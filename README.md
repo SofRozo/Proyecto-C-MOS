@@ -13,13 +13,9 @@ Se implementan modelos matemáticos en Pyomo para planificar rutas nacionales co
 ## Estructura del Repositorio
 
 - `data-cases/`: Datos de entrada para cada caso (base, caso2, caso3)
-- `models/`: Modelos Pyomo modulares (CVRP, recarga, completo)
-- `scripts/`: Scripts para ejecutar cada caso de estudio
-- `utils/`: Funciones auxiliares (lectura, validación, visualización, verificación)
-- `results/`: Visualizaciones, tablas y archivos `.csv` de verificación
+- `data-processing/`: Procesamiento de datos
 - `documentation/`: Informes, modelado matemático primera etapa y final con análisis y resultados
-- `main.py`: Script principal de ejecución
-- `requirements.txt`: Dependencias del entorno
+- `notebooks/`: Desarrollo de cada uno de los casos
 - `README.md`: Este archivo
 
 ## Requisitos
