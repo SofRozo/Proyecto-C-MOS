@@ -13,16 +13,11 @@ Se implementan modelos matemáticos en Pyomo para planificar rutas nacionales co
 ## Estructura del Repositorio
 
 - `data-cases/`: Datos de entrada para cada caso (base, caso2, caso3)
-- `data-processing/`: Procesamiento de datos
 - `documentation/`: Informes, modelado matemático primera etapa y final con análisis y resultados
 - `notebooks/`: Desarrollo de cada uno de los casos
+- `visual-results/`: Representaciones gráficas en folium y matplotlib para cada uno de los casos
+- `validation/`: Archivos de validación por cada caso
 - `README.md`: Este archivo
 
-## Requisitos
 
-- Python 3.9+
-- Pyomo
-- pandas
-- matplotlib
-- 
 
