@@ -1,4 +1,4 @@
-ClientID,City/Municipality,Demand,LocationID,MaxWeight
+LocationID,City/Municipality,Demand,LocationID,MaxWeight
 1,Bogotá,16.0,2,N/A
 2,Medellín,18.0,3,N/A
 3,Cali,16.0,4,35.0
