@@ -13,8 +13,8 @@ Se implementan modelos matemáticos en Pyomo para planificar rutas nacionales co
 ## Estructura del Repositorio
 
 - `data-cases/`: Datos de entrada para cada caso (base, caso2, caso3)
-- `documentation/`: Informes, modelado matemático primera etapa y final con análisis y resultados
-- `notebooks/`: Desarrollo de cada uno de los casos
+- `documentation/`: Modelado matemático primera etapa (de este nos basamos para la implementación)
+- `notebooks/`: Desarrollo de cada uno de los casos. 
 - `visual-results/`: Representaciones gráficas en folium para cada uno de los casos
 - `validation/`: Archivos de validación por cada caso
 - `README.md`: Este archivo
